@@ -1,0 +1,4 @@
+Run the main.py file
+
+You can change the question in data files and make your own quiz game!
+Note: if changes done in the list do check out line: 9 , 10 in main file to change the key or valve currently is "text" and "answer".
