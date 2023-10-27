@@ -1,0 +1,16 @@
+piano_keys = ["a", "b", "c", "d", "e", "f", "g"]
+piano_tuple = ("do", "re", "mi", "fa", "so", "la", "ti")
+
+print(f"1.{piano_keys[2:5]}")
+print(f"2.{piano_keys[2:]}")
+print(f"3.{piano_keys[:5]}")
+print(f"4.{piano_keys[2:5:2]}")
+print(f"5.{piano_keys[::2]}")
+print(f"6.{piano_keys[:-1]}")
+print("\n")
+print(f"A:{piano_tuple[2:5]}")
+print(f"B:{piano_tuple[2:]}")
+print(f"C:{piano_tuple[:5]}")
+print(f"D:{piano_tuple[2:5:2]}")
+print(f"E:{piano_tuple[::2]}")
+print(f"F:{piano_tuple[:-1]}")
